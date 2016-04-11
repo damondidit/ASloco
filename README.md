@@ -1,0 +1,2 @@
+# ASloco
+AppleScript location script
